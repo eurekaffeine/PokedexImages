@@ -1,8 +1,8 @@
 # PokedexImages
 ## Disclaimer
-_Pocket Gallery_ is an unofficial, free fan made app and is NOT affiliated, endorsed or supported by Nintendo, GAME FREAK or The Pokémon company in any way.
+_PockedexImages_ is an unofficial, free fan made project and is NOT affiliated, endorsed or supported by Nintendo, GAME FREAK or The Pokémon company in any way.
 
-Images used in this app are copyrighted and are supported under fair use.
+Images used in this project are copyrighted and are supported under fair use.
 
 Pokémon and Pokémon character names are trademarks of Nintendo. 
 
